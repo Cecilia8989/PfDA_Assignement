@@ -29,7 +29,7 @@ This project have been writen using python 3.11.4 and structurate in a Jupyter n
 
 1. Make sure python is installed on your machine. If not [Anaconda](https://www.anaconda.com/) can be installed.
 
-2. Install Jupyter Notebook. Jupyter notebook can be installed in a terminal tapying:
+2. Install Jupyter Notebook. Jupyter notebook [can be installed in a terminal](https://jupyter.org/install) tapying:
 
 ```python
 pip install notebook
@@ -56,7 +56,13 @@ pip seaborn
 pip plotly
 pip io
 ```
-Once the needed librarys are installed 
+4. Clone the repository in a local machine  using [git clone](https://robots.net/how-to-guide/how-to-download-a-github-repository/)
+
+5. Open the file **PfDA_Project_1.ipynb** in VS Code or, in a terminal, navigate to the directory where the file is saved and run jupyter notebook
+
+```python
+jupyter notebook
+```
 
 
 
