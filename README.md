@@ -4,12 +4,13 @@
    <p align="center">
    Cecilia Pastore 
 
- <p align="center">
-  <img src=https://content.presspage.com/uploads/722/1920_almosthalfstatdv-copy.png?10000>
-</p>
-<div>
-  <center><a href="https://news.hackney.gov.uk/end-violence-against-women-and-girls-in-hackney/"><i>End violence against women and girls</i></a></center>
+<div style="text-align:center;">
+ <img src="https://content.presspage.com/uploads/722/1920_almosthalfstatdv-copy.png?10000">
 </div>
+
+<div style="text-align:center;">
+ <a href="https://news.hackney.gov.uk/end-violence-against-women-and-girls-in-hackney/"><i>End violence against women and girls</i></a>
+ </div>
 
 ## Description
 
@@ -49,12 +50,12 @@ The library needed are:
 To install them you can use pip install in a terminal, or command prompt, followed by the librarys:
 
 ```python
-pip install 
-pip pandas 
-pip matplotlib 
-pip seaborn
-pip plotly
-pip io
+pip install pandas 
+pip install numpy
+pip install seaborn 
+pip install matplotlib
+pip install plotly 
+pip install io 
 ```
 4. Clone the repository in a local machine  using [git clone](https://robots.net/how-to-guide/how-to-download-a-github-repository/)
 
